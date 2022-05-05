@@ -1,0 +1,14 @@
+body {
+    margin: auto;
+    background: rgba(14, 55, 236, 0.541);
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;  
+}
+header{
+    background-color: rgb(230, 243, 46);
+}
+
+h1{
+    text-align: center;
+}
